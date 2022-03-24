@@ -1,6 +1,5 @@
-# TIL
+# TIL - Today I Learned ✍️
 
-> Today I Learned 
+Based on Josh Branchaud's [TIL](https://github.com/jbranchaud/til) project.
 
-
-✍️ Today I Learned
+Document daily learning during work and projects. Create an open knowledge base for myself and others to reference.
